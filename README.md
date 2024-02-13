@@ -6,24 +6,7 @@
 
 [![hypeprogrammer's GitHub stats](https://github-readme-stats.vercel.app/api?username=hypeprogrammer&include_all_commits=true&show_icons=true&theme=cobalt)](https://github.com/hypeprogrammer/github-readme-stats)
 
-## 💻 기술 블로그 💻
 
-<div style="display:flex; flex-direction:row;">
-    <a href="https://velog.io/@bi-sz">
-        <img src="https://img.shields.io/badge/Velog-20c997?style=for-the-badge&logo=Vimeo&logoColor=white"> 
-    </a>
-
- [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=istjprogrammer)](https://github.com/bi-sz/velog-readme-stats)
-</div><br>
-
-
-## 📞 Contact 📞
-<div style="display:flex; flex-direction:row;">
-    <a href="mailto:sunggil2010@naver.com">
-        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
-    </a>
-</div><br>
-    
 ## 🔨 기술스택 🔨
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <!-- Backend -->
