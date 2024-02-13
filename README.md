@@ -1,28 +1,25 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&text=&animation=twinkling&height=80)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+bi-sz's+GitHub!👋)](https://git.io/typing-svg)
- 
-<div align="left">
+![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=HypeProgrammer&fontColor=fff&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180)
 
 -------
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbi-sz&count_bg=%23FFB6F3&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=GITHUB&edge_flat=false)](https://hits.seeyoufarm.com)  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.io%2Fhypeprogrammer&count_bg=%23FFB6F3&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=GITHUB&edge_flat=false)](https://hits.seeyoufarm.com)
 
-[![bi-sz's GitHub stats](https://github-readme-stats.vercel.app/api?username=bi-sz&include_all_commits=true&show_icons=true&theme=cobalt)](https://github.com/hypeprogrammer/github-readme-stats)
- 
-<br>
+[![hypeprogrammer's GitHub stats](https://github-readme-stats.vercel.app/api?username=hypeprogrammer&include_all_commits=true&show_icons=true&theme=cobalt)](https://github.com/hypeprogrammer/github-readme-stats)
 
-## 💻 DEV's log 💻
+## 💻 기술 블로그 💻
+
 <div style="display:flex; flex-direction:row;">
-    <a href="https://velog.io/@istjprogrammer">
+    <a href="https://velog.io/@bi-sz">
         <img src="https://img.shields.io/badge/Velog-20c997?style=for-the-badge&logo=Vimeo&logoColor=white"> 
     </a>
-  
- [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=bi-sz)](https://github.com/istjprogrammer/velog-readme-stats)
+
+ [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=istjprogrammer)](https://github.com/bi-sz/velog-readme-stats)
 </div><br>
+
 
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
-    <a href="mailto:istjprogrammer@gmail.com">
+    <a href="mailto:sunggil2010@naver.com">
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
     </a>
 </div><br>
